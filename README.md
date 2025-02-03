@@ -1,7 +1,7 @@
 # 👋About me
 
 <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/kqe123?pet-id=1" width="1000" height="1000"/></a>
+    <img src="https://render.gitanimals.org/lines/kqe123?pet-id=1" width="200" height="200"/></a>
 
 # 📱Contact
 
