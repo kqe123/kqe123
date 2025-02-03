@@ -14,4 +14,5 @@
 ### Libraries
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kqe0012)](https://github.com/anuraghazra/github-readme-stats)
 
