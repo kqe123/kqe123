@@ -2,4 +2,4 @@
 
 ## 📱Contact
 
-## Session
+## 📖Skills
